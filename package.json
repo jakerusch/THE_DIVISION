@@ -1,0 +1,73 @@
+{
+    "author": "jacob.rusch@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "division",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "DIVISION",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "KEY_CITY": 1,
+            "KEY_TEMP": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/BLUETOOTH_WHITE_ICON",
+                    "name": "BLUETOOTH_WHITE_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/LIGHTENING_WHITE_ICON",
+                    "name": "LIGHTENING_WHITE_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/BORDA_BOLD_FONT",
+                    "name": "BORDA_BOLD_FONT_24",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/BORDA_BOLD_FONT",
+                    "name": "BORDA_BOLD_FONT_12",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/BORDA_FONT",
+                    "name": "BORDA_FONT_36",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/BORDA_FONT",
+                    "name": "BORDA_FONT_24",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "images/DIVISION_ICON_BLACK",
+                    "name": "DIVISION_ICON_BLACK",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "1ea9ec52-0c19-46ad-976c-71db0e8035e3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
